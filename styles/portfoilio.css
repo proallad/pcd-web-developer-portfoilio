@@ -160,3 +160,12 @@ gap: 24px;
 .resume-download-cv{
     margin-top: 50px;
 }
+/* footer styles */
+
+.footer{
+
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px
+    ;
+}
